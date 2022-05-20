@@ -107,6 +107,7 @@ namespace TimerApp
             label1.Hide();
             secondsTextBox.Show();
             minutesTextBox.Show();
+            hourTextBox.Show();
         }
     }
 }
